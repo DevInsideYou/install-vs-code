@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# install vscode
+# install vs-code
 sudo snap install --classic code
 
 # remove yourself
