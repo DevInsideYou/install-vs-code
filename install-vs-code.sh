@@ -7,5 +7,10 @@ echo
 
 echo '"code" is now on the path'
 
+echo
+
+# update code
+sudo snap refresh code
+
 # remove yourself
 rm $0
